@@ -1,16 +1,16 @@
-INSERT INTO bears (name) VALUES
-('Mr. Chocolate');
-INSERT INTO bears (name) VALUES
-('Rowdy');
-INSERT INTO bears (name) VALUES
-('Tabitha');
-INSERT INTO bears (name) VALUES
-('Sergeant Brown');
-INSERT INTO bears (name) VALUES
-('Melissa');
-INSERT INTO bears (name) VALUES
-('Grinch');
-INSERT INTO bears (name) VALUES
-('Wendy');
+INSERT INTO bears (name, gender) VALUES
+('Mr. Chocolate', 0);
+INSERT INTO bears (name, gender) VALUES
+('Rowdy', 0);
+INSERT INTO bears (name, gender) VALUES
+('Tabitha', 1);
+INSERT INTO bears (name, gender) VALUES
+('Sergeant Brown', 0);
+INSERT INTO bears (name, gender) VALUES
+('Melissa', 1);
+INSERT INTO bears (name, gender) VALUES
+('Grinch', 0);
+INSERT INTO bears (name, gender) VALUES
+('Wendy', 1);
 INSERT INTO bears (name) VALUES
 (NULL);
