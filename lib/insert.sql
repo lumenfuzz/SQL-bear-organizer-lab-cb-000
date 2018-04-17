@@ -1,14 +1,14 @@
 INSERT INTO bears (name) VALUES
 ('Mr. Chocolate');
 INSERT INTO bears (name) VALUES
-(Rowdy);
+('Rowdy');
 INSERT INTO bears (name) VALUES
-(Tabitha);
+('Tabitha');
 INSERT INTO bears (name) VALUES
-(Sergeant Brown);
+('Sergeant Brown');
 INSERT INTO bears (name) VALUES
-(Melissa);
+('Melissa');
 INSERT INTO bears (name) VALUES
-(Grinch);
+('Grinch');
 INSERT INTO bears (name) VALUES
-(Wendy);
+('Wendy');
