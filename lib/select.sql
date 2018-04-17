@@ -1,1 +1,1 @@
-SELECT * FROM bears WHERE gender = "F";
+SELECT name, age FROM bears WHERE gender = "F";
