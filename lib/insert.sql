@@ -12,4 +12,5 @@ INSERT INTO bears (name) VALUES
 ('Grinch');
 INSERT INTO bears (name) VALUES
 ('Wendy');
-INSERT INTO bears;
+INSERT INTO bears(name) VALUES
+(NULL);
